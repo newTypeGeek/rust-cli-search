@@ -2,7 +2,7 @@
 
 Rust Command Line Interface (CLI) to search text in a file
 
-This repository is created by following [Chapter 12 - An I/O Project: Building a Command Line Program](https://doc.rust-lang.org/book/ch12-00-an-io-project.html)
+This repository is created by following [Chapter 12 - An I/O Project: Building a Command Line Program](https://doc.rust-lang.org/book/ch12-00-an-io-project.html), and [Chapter 13.3 Improving Our I/O Project](https://doc.rust-lang.org/book/ch13-03-improving-our-io-project.html)
 
 # Getting Started
 1. Install rust by following the offical website https://www.rust-lang.org/tools/install
